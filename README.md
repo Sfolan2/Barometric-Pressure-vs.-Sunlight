@@ -1,1 +1,1 @@
-# Barometric-Pressure-vs.-Sunlight
+# Barometric Pressure vs. Sunlight
